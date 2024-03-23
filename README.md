@@ -1,9 +1,10 @@
-**My FreeCodecamp journey**
+# My FreeCodecamp journey
 
 Journey starts: 3/23/24
 
 
-RESPONSIVE WEB DESIGN
+## RESPONSIVE WEB DESIGN
+
 ☑ Cat Photo App
 
 ◻ Cafe menu
